@@ -10,7 +10,7 @@ Base year
 
 ## Discussion
 
-![Perbandingan Aset](image\gold-viz.jpg)
+![Perbandingan Aset](.\image\gold-viz.jpg)
 
 #### Source Data
 Yahoo https://finance.yahoo.com/
