@@ -15,7 +15,7 @@ Base year
 ## Source Data
 [Yahoo](https://finance.yahoo.com/)
 
-[Gold Antam(1/gr)](https://www.logammulia.com/id/grafik-harga-emas)
+[Gold Antam (gr)](https://www.logammulia.com/id/grafik-harga-emas)
 
 [World Gold Price](https://goldprice.org/)
 
